@@ -1,0 +1,6 @@
+[project]
+name = "cookie-flags-audit"
+version = "0.1.0"
+description = "Audit saved Set-Cookie response headers for missing Secure, HttpOnly, SameSite, and prefix-specific cookie protections."
+requires-python = ">=3.10"
+license = "MIT"
